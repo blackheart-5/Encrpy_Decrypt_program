@@ -204,12 +204,7 @@ def main():
 
 
 
-# These two lines allow this program to be imported into other codes
-# such as our function tests code allowing other functions to be run
-# and tested without 'main' running.  However, when this program is
-# run alone, 'main' will execute.
-# DO NOT CHANGE THESE 2 lines or Do NOT add code to them. Everything
-# you add should be in the 'main' function above.
+
 if __name__ == '__main__':
     main()
 
