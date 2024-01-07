@@ -1,5 +1,5 @@
 ''' ###########################################################
-#  Computer Project #5
+#
 #
 #  Algorithm
 #The user will enter a sentence, a string
